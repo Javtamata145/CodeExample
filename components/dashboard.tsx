@@ -44,7 +44,7 @@ export function Dashboard() {
   ]
 
   const stats = [
-    { label: "Horas Aprendidas", value: "42.5", icon: Clock },
+    { label: "Horas Aprendidas en clase", value: "42.5", icon: Clock },
     { label: "Certificados", value: "3", icon: Award },
     { label: "Comunidad", value: "1,234", icon: Users },
   ]
